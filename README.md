@@ -33,6 +33,21 @@
 通过入库器 mini 的「内核」页一键安装，或手动把对应位数的 DLL 复制到游戏 exe 所在目录。
 首次使用建议先备份游戏目录。
 
+## 配套应用：大轩巴入库器mini
+
+[大轩巴入库器mini](https://github.com/daxuanba/daxuanba-Injector-mini) 是配套的 Windows 桌面工具，
+一个 exe 双击即用：
+
+- 内核一键安装 / 卸载 / 状态检查
+- 免费游戏走 Steam 官方接口真入库（提交前后复查真实账号库）
+- 用户名 + 密码 + 邮箱验证码登录
+- 扫 Steam 清单目录，识别每个游戏由哪个工具写入
+- 有 DLC 才显示小按钮，弹窗看原图标与真实拥有状态
+- 应用启动即自动开启网络加速
+
+程序数据统一放 `%APPDATA%\DaXuanBa\DXB-Mini`，程序目录只留一个 exe。
+
+
 ---
 
 <div align="center">大轩巴 · daxuanba</div>
