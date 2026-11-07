@@ -4,7 +4,7 @@
 
 # 大轩巴万能内核
 
-> daxuanba-core · 自研 Steamworks 模拟内核 · v1.0.0
+> daxuanba-core · 自研入库内核 · v1.0.0
 
 [大轩巴入库器mini](https://github.com/daxuanba/daxuanba-Injector-mini) 唯一内置的入库内核。
 文件分发型：不注入、不常驻、不需要 Steam 客户端运行。
